@@ -1,2 +1,5 @@
-A semi Scratch code for Cipher-10. 
-not a backprop ninja yet.
+the dataset is taken form https://www.kaggle.com/c/cifar-10/
+
+test accuracy is 73.80
+
+
