@@ -1,5 +1,4 @@
-*
-!conv.ipynb
-!ConvTorch.ipynb
-!.gitignore
-
+trainLabels.csv
+train
+test
+.ipynb_checkpoints
